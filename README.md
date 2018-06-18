@@ -1,2 +1,2 @@
-# django-quesnaire
+# django_quesnaire
 A django based quesnaire
